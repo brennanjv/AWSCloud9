@@ -1,0 +1,26 @@
+print() : will print out what is inside the double quotes. I.E print("Hello") would result in console output: Hello
+print(f) : Allows to place variables in strings without having to typecast using {} I.E printf("Hello {variable name}")
+input() : function will allow for user input.
+len(x) : # number of characters in x
+type() : Will check the type of data for a specific variable
+str(variable) is typecasting as the new variable type.
+round() : Can round numbers to a specified number of decimal places I.E round(2.3333, 2) will round to 2.33
+lower() : sets all characters in a string to lowercase
+
+
+count() : gives the number of times a letter occurs in a string. Example below
+## name = "brennan"
+## print(name.count("n"))
+## output would be 3 as there are 3 n's in the string
+
+#if statements (can be nested)
+# if condition:
+#   do this
+# else:
+#   do this instead
+# Can use elif to check for multiple conditions before else:
+Logical Operators : and / or / not
+
+The modulo % is returns the remainder when dividing two numbers
+I.E 6 % 2 = 0 as there is no remainder
+I.E 15 % 4 = 3
