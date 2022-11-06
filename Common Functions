@@ -6,6 +6,13 @@ type() : Will check the type of data for a specific variable
 str(variable) is typecasting as the new variable type.
 round() : Can round numbers to a specified number of decimal places I.E round(2.3333, 2) will round to 2.33
 lower() : sets all characters in a string to lowercase
+import can be used to import modules
+randint(a,b) : gives random interger between a and b (inclusive) and requires random to be imported
+random.random() : gives random float between x and y. Y is exclusive. 
+List : can store multiple data types I.E fruits = [item1, item2]
+Append() : Can add to a list by fruits.append(data) will add to the end of the list. 
+Nested List : allows a list to contain multiple list. 
+def : defines a function i.e def my_function:
 
 
 count() : gives the number of times a letter occurs in a string. Example below

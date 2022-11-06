@@ -1,1 +1,6 @@
-To put any notes in for this repo.
+Useful commands for Git
+git status : shows our current branch mains up-to-date status
+git push : pushes any commits we've made
+git commit -m "enter any text" : commits our changes
+git add --all : adds all new files
+git rm <filename> : removes a file
