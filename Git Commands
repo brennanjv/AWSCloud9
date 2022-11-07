@@ -1,4 +1,5 @@
 Useful commands for Git
+Make sure we are in the AWSCloud9 directory when making changes C:
 git status : shows our current branch mains up-to-date status
 git push : pushes any commits we've made
 git commit -m "enter any text" : commits our changes

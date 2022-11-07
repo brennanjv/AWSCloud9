@@ -13,7 +13,18 @@ List : can store multiple data types I.E fruits = [item1, item2]
 Append() : Can add to a list by fruits.append(data) will add to the end of the list. 
 Nested List : allows a list to contain multiple list. 
 def : defines a function i.e def my_function:
+range(x,y) : gives a range between x and y . Y is exclusive
+random.shuffle : shuffles the content of a list
+join : ''.join(list) , joins list contents into a string
 
+
+# for loop
+# for variable in List:
+#   do something
+# for number in range(x,y):
+#   do something
+
+    
 
 count() : gives the number of times a letter occurs in a string. Example below
 ## name = "brennan"
