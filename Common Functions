@@ -24,9 +24,15 @@ join : ''.join(list) , joins list contents into a string
 # for number in range(x,y):
 #   do something
 
-    
+# while loop
+# while x is true:
+#   do this!
+#x = 5
+# while x > 0:
+#   do something
+#   x -= 1
 
-count() : gives the number of times a letter occurs in a string. Example below
+#count() : gives the number of times a letter occurs in a string. Example below
 ## name = "brennan"
 ## print(name.count("n"))
 ## output would be 3 as there are 3 n's in the string
